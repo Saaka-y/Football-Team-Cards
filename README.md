@@ -25,3 +25,6 @@ No build tools or installation are required.
 
 This project was built as a hands-on lab to practice basic DOM manipulation, event handling, and responsive design using plain HTML/CSS/JS.
 
+## ⚠️ Note
+
+The team name, coach, and player information used in this project are fictional and for learning/demo purposes only.
